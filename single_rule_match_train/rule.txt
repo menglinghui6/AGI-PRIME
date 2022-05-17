@@ -1,0 +1,16 @@
+color-AND
+color-OR
+color-progression
+color-XOR
+number-progression
+position-AND
+position-OR
+position-XOR
+size-AND
+size-OR
+size-progression
+size-XOR
+type-AND
+type-OR
+type-progression
+type-XOR
